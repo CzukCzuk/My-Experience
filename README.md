@@ -1,7 +1,7 @@
 #Courses <br>
 Udemy: Bootcamp Testerski - Testowanie Oprogramowania 2022 - https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/ / Software Testing 2022 <br>
 Udemy: Praktyczny Kurs Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/ / Practical Cours of Software Testing <br>
-Udemy: Podstawy Manualnego Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/ / Basic of the Manual Software Testing <br>
+Udemy: Podstawy Manualnego Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/ / Basics of the Manual Software Testing <br>
 uTest Academy - https://www.utest.com/academy <br>
 CS50’s Introduction to Programming with Python - currently learning
 
