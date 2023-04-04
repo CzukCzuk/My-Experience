@@ -1,15 +1,15 @@
 #Courses <br>
-Udemy: Bootcamp Testerski - Testowanie Oprogramowania 2022 - https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/ <br>
-Udemy: Praktyczny Kurs Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/ <br>
-Udemy: Podstawy Manualnego Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/ <br>
+Udemy: Bootcamp Testerski - Testowanie Oprogramowania 2022 - https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/ / Software Testing 2022 <br>
+Udemy: Praktyczny Kurs Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/ / Practical Cours of Software Testing <br>
+Udemy: Podstawy Manualnego Testowania Oprogramowania - https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/ / Basic of the Manual Software Testing <br>
 uTest Academy - https://www.utest.com/academy <br>
 CS50’s Introduction to Programming with Python - currently learning
 
 #Webinars and Marathons <br>
 GoIT Maraton HTML/CSS - https://goit.global/pl/maraton/ <br>
-Fabryka Testów: Webinar - Jak napisać swój pierwszy test automatyczny? Pełny proces <br>
-Fabryka Testów: Webinar - Jak nauczyć się pisać testy automatyczne <br>
-AkademiaQA - Testowanie REST API dla początkujących
+Fabryka Testów: Webinar - Jak napisać swój pierwszy test automatyczny? Pełny proces / How to write your first automated test? Full procces <br>
+Fabryka Testów: Webinar - Jak nauczyć się pisać testy automatyczne <br> / How to learn writing automated tests
+AkademiaQA - Testowanie REST API dla początkujących / REST API testing for beginners
 
 #Literature <br>
 Zawód Tester - Radosław Smilgin <br>
