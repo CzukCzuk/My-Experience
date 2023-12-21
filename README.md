@@ -20,11 +20,11 @@ ABC Testowania Oprogramowania - Waldemar Szafraniec
 SQL Tutorial - https://www.w3schools.com/sql/
 
 #Tech SKills <br>
-MS Office - proficient
-TestRail - intermediate | work experience at Lionbridge
-Azure DevOps - intermediate | work experience at Lionbridge
-WordPress - intermediate | work experience at MoviesRoom
-Jira - intermediate | work experience at Demant
-SQL - basic | Polska Fundacja Przedsiębiorczości - SQL od Podstaw - https://szkolenia.pfp.com.pl/
-Postman - basic | https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/
-Python - basic | CS50’s Introduction to Programming with Python - https://cs50.harvard.edu/python/2022/
+MS Office - proficient <br>
+TestRail - intermediate | work experience at Lionbridge <br>
+Azure DevOps - intermediate | work experience at Lionbridge <br>
+WordPress - intermediate | work experience at MoviesRoom <br>
+Jira - intermediate | work experience at Demant <br>
+SQL - basic | Polska Fundacja Przedsiębiorczości - SQL od Podstaw - https://szkolenia.pfp.com.pl/ <br>
+Postman - basic | https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/ <br>
+Python - basic | CS50’s Introduction to Programming with Python - https://cs50.harvard.edu/python/2022/ <br>
