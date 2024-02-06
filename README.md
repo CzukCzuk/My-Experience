@@ -9,9 +9,9 @@ Polska Fundacja Przedsiębiorczości - SQL od Podstaw - https://szkolenia.pfp.co
 #Webinars and Marathons <br>
 GoIT Maraton HTML/CSS - https://goit.global/pl/maraton/ <br>
 Fabryka Testów: Webinar - Jak napisać swój pierwszy test automatyczny? Pełny proces / How to write your first automated test? Full procces <br>
-Fabryka Testów: Webinar - Jak nauczyć się pisać testy automatyczne <br> / How to learn writing automated tests
-AkademiaQA - Testowanie REST API dla początkujących / REST API testing for beginners
-BugHuntFest Conference
+Fabryka Testów: Webinar - Jak nauczyć się pisać testy automatyczne <br> / How to learn writing automated tests <br>
+AkademiaQA - Testowanie REST API dla początkujących / REST API testing for beginners <br>
+BugHuntFest Conference <br>
 
 #Literature <br>
 Zawód Tester - Radosław Smilgin <br>
